@@ -1,0 +1,126 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TabCollectionViewCell"
+provides-nominal:
+- "C13TabCollection21TabCollectionViewCell"
+provides-member:
+- ["C13TabCollection21TabCollectionViewCell", ""]
+provides-dynamic-lookup:
+- "tabTitle"
+depends-top-level:
+- "UILabel"
+- "TabCollectionViewCell"
+- "CGRect"
+- "UICollectionViewCell"
+- "NSCoder"
+depends-member:
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "tabTitle"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "tabTitle"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "tabTitle"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "tabTitle"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "tabTitle"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "tabTitle"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "CGRect"]
+- ["CSo8NSObject", "NSCoder"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "tabTitle"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "tabTitle"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C13TabCollection21TabCollectionViewCell", "CGRect"]
+- ["C13TabCollection21TabCollectionViewCell", "NSCoder"]
+- ["C13TabCollection21TabCollectionViewCell", "UILabel"]
+- ["C13TabCollection21TabCollectionViewCell", "deinit"]
+- ["C13TabCollection21TabCollectionViewCell", "init"]
+- ["C13TabCollection21TabCollectionViewCell", "tabTitle"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "tabTitle"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "tabTitle"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "tabTitle"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["CSo24UICollectionReusableView", "CGRect"]
+- ["CSo24UICollectionReusableView", "NSCoder"]
+- ["CSo24UICollectionReusableView", "UILabel"]
+- ["CSo24UICollectionReusableView", "init"]
+- ["CSo24UICollectionReusableView", "tabTitle"]
+- ["CSo20UICollectionViewCell", "CGRect"]
+- ["CSo20UICollectionViewCell", "NSCoder"]
+- ["CSo20UICollectionViewCell", "UILabel"]
+- ["CSo20UICollectionViewCell", "init"]
+- ["CSo20UICollectionViewCell", "tabTitle"]
+- ["CSo20UICollectionViewCell", ""]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "tabTitle"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "tabTitle"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "tabTitle"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "CGRect"]
+- ["CSo11UIResponder", "NSCoder"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "tabTitle"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "tabTitle"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "CGRect"]
+- ["CSo6UIView", "NSCoder"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "tabTitle"]
+- ["PSs12_Reflectable", "init"]
+- ["PSs12_Reflectable", "tabTitle"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C13TabCollection21TabCollectionViewCell"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "CSo24UICollectionReusableView"
+- "CSo20UICollectionViewCell"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode_7.1.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode_7.1.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode_7.1.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode_7.1.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode_7.1.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode_7.1.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode_7.1.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode_7.1.1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+interface-hash: "48aa7ae3bb71dbcc1f7dea971208edf3"
