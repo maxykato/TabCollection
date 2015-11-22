@@ -1,8 +1,0 @@
-version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
-options: "f634b30358d096306071452b4bb54133"
-build_time: [501498887, 505347000]
-inputs:
-  "/Users/yuichimaxkato/iPhone_App_dev/Samples/TabCollection/TabCollection/TabCollectionViewCell.swift": [501488512, 0]
-  "/Users/yuichimaxkato/iPhone_App_dev/Samples/TabCollection/TabCollection/AppDelegate.swift": [501479920, 0]
-  "/Users/yuichimaxkato/iPhone_App_dev/Samples/TabCollection/TabCollection/ViewController.swift": [501498887, 0]
-  "/Users/yuichimaxkato/iPhone_App_dev/Samples/TabCollection/TabCollection/MainCollectionViewCell.swift": [501488512, 0]
